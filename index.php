@@ -1,12 +1,25 @@
 <?php include('header.html');?>
-    <div class="container-fluid">
-
-        <div class="row">
-            <div class="element_dark">
-                <p class="float-right">Bonjour</p>
-            </div>
+        <div style="background-image:url(img/bg.jpg);">
+        <p>oui</p>
+                <br/>
+                <br/>
+                <br/>
+                <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
         </div>
-    </div>
+        <div>
+            <p>oui</p>
+                <br/>
+                <br/>
+                <br/>
+                <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+        </div>
+        <div style="background-image:url(img/bg.jpg);">
+                <br/>
+                <br/>
+                <br/>
+                <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+        </div>
+        
 
 
    <?php include('footer.html');?>
