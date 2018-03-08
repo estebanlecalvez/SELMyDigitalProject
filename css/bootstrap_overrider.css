@@ -1,0 +1,23 @@
+body{
+    background-color:aliceblue;
+}
+
+.header{
+    background-color: aqua;
+}
+
+.footer{
+    background-color: red;
+}
+.alert{
+    margin-left : 0.5%;
+    margin-right : 0.5%;
+}
+
+#container_demande{
+    margin-left : 5px;
+    margin-right : 5px;
+    padding-right: 5px;
+}
+
+
