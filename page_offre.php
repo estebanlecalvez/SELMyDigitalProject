@@ -1,20 +1,7 @@
-<!DOCTYPE html>
-
-<html>
-
-<head>
-
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/bootstrap_overrider.css" rel="stylesheet">
-
-    <meta charset="utf-8" />
-    <title>Titre</title>
-
-</head>
-
 
 <body>
-    <div class="header">
+<?php include('header.html');?>
+    <div style="background-color: black">
         <br/>
         <br/>
         <div class="h1" style="text-align : center;color : white"> HEADER
@@ -22,7 +9,6 @@
             <br/>
         </div>
     </div>
-    <div class="container" id="container_demande">
         <div class="row">
             <div class="alert col-sm-2" style="background-color: #ccddff">
                 MENU?------------- LISTE DES OFFRES?
@@ -51,22 +37,18 @@
                     </div>
                 </div>
             </div>
-
             <div class="alert col-sm" style="background-color: #f2f2f2">
                 <div class="alert alert-success">
                     <b>Titre de l'offre</b>
                 </div>
+
                 <div class="alert alert-danger" style="text-align : justify">
                     Cherche copain pour me tondre la pelouse et faire un massage du dos et manger des épinards à la cantonaise
                 </div>
                 <br/>
                 <div class="container" style="text-align :right">
-                    <b>Categorie : </b> Multiple
-                    <br/>
-                    <br/>
-                    <b>Souèts : </b> 120(2heures)
-                    <br/>
-                    <br/>
+                    <b>Categorie : </b> Multiple<br/><br/>
+                    <b>Souèts : </b> 120(2heures)<br/><br/>
                     <b>Date souhaitée : </b> 12/07/2018
                 </div>
 
@@ -77,15 +59,16 @@
 
             </div>
         </div>
-    </div> 
-    <div class="footer">
-        <br/>
-        <br/>
-        <div class="h1" style="text-align : center;color : white"> FOOTER
-            <br/>
-            <br/>
-        </div>
-    </div>
+        <div style="background-color: black">
+                <br/>
+                <br/>
+                <div class="h1" style="text-align : center;color : white"> FOOTER
+                    <br/>
+                    <br/>
+                </div>
+            </div>
+            <?php include('footer.html');?>
+
 </body>
 
 </html>
