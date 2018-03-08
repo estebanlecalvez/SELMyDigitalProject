@@ -1,5 +1,5 @@
 <?php include('header.html');?>
-        <div style="background-image:url(img/bg.jpg);">
+        <div style="background-image:url(img/img_banner.png);">
                 <div class="container">
                         <div class="row" style="padding-top:20px">
                                 <div class="col"></div>
