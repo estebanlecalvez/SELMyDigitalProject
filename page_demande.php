@@ -34,7 +34,7 @@
                 </p>
             </div>
 
-            <div class="border border-secondary jumbotron col-sm-4">
+            <div class="border border-secondary jumbotron col">
                 <h3 class="display-5">User Infos</h3>
                 <img src="img/profil.png" id="profil_picture">
 
@@ -51,7 +51,7 @@
 
             </div>
             <br/>
-            <div class="border border-secondary jumbotron col-sm-4">
+            <div class="border border-secondary jumbotron col">
                 <h3 class="display-5">Titre de l'offre</h3>
 
                 <hr class="my-4">
