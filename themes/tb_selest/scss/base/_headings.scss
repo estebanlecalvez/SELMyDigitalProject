@@ -1,0 +1,65 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  line-height: 120%;
+  padding: 0;
+  margin: 20px 0 10px;
+}
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  color: $text-color;
+}
+h1 {
+  font-size: 36px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 20px;
+}
+h5 {
+  font-size: 18px;
+}
+h6 {
+  font-size: 16px;
+}
+h1.page-header {
+  font-size: 32px;
+  border-bottom: none;
+}
+#footer h2,
+#pre-header h2,
+#promoted h2,
+.sidebar h2,
+.title-sep {
+  clear: both;
+  font-size: 16px;
+  margin-bottom: 40px;
+  position: relative;
+}
+#footer h2:after,
+#pre-header h2:after,
+#promoted h2:after,
+.sidebar h2:after,
+.title-sep:after {
+  background-color: $text-color;
+  content: "";
+  display: block;
+  height: 4px;
+  width: 20px;
+  position: absolute;
+  bottom: -15px;
+  left: 0;
+}

@@ -1,0 +1,37 @@
+//== Base
+//
+// Il s’agit des éléments par défaut tels qu’ils sont définis sur l’ensemble du site. Ce sont les règles de style “de base” (sans blague).
+//
+// Bien généralement il s’agit des éléments HTML basiques.
+// Mais on peut également y retrouver des sélecteurs descendants (h1 em), des sélecteurs d’enfants (ul > li) ou même des pseudo-classes (a:hover).
+//
+// Évitez d'utiliser class, id et !important dans cette catégorie.
+////@import 'base/form';
+@import 'base/headings';
+//@import 'base/lists';
+//@import 'base/medias';
+@import 'base/typography';
+//@import 'base/tables';
+//== Layout
+//
+// Il s’agit du découpage de l’architecture de votre site en sections principales.
+//
+// Généralement, il s’agit de sélecteurs simples, descendants ou d’enfants, voire de classes ou d’identifiants (pour le coup, c’est bien le seul endroit où l’usage d’ID est tolérable).
+@import 'layout/footer';
+@import 'layout/header';
+@import 'layout/main';
+//== Components
+//
+// Un component est une section mineure, un composant autonome de la page.
+//
+// Partir sur une structure modulaire est une bonne pratique à appliquer pour créer et maintenir un CSS flexible et réutilisable. A titre d’exemple, les modules les plus classiques sont certainement la navigation et les boutons.
+//
+// Évitez d'utiliser id ou !important dans cette catégorie.
+//@import 'components/home-slider';
+//@import 'components/home-sponsors';
+//@import 'components/main-menu';
+//@import 'components/pre-header';
+//@import 'components/tb-megamenu';
+// @import 'components/timeline';
+// @import 'components/top-menu';
+//@import 'components/user-menu';

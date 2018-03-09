@@ -1,0 +1,39 @@
+body {
+  line-height: 160%;
+}
+p {
+  margin: 0 0 25px;
+  padding: 0;
+}
+a {
+  transition: all .3s ease-in-out;
+  &:hover {
+    text-decoration: underline;
+
+  }
+  &:focus {
+    outline: none;
+    text-decoration: none;
+  }
+}
+blockquote {
+  margin: 40px 40px 24px;
+  border-left: none;
+  padding: 0;
+  position: relative;
+  color: $gray-light;
+  &::before {
+
+    content: "\201C";
+    display: block;
+    font-size: 30px;
+    left: -20px;
+    top: 5px;
+    position: absolute;
+  }
+  p {
+    font-size: 14px;
+    line-height: 160%;
+    font-weight: 400;
+  }
+}
