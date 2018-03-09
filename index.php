@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row" style="padding-top:20px">
             <div class="col"></div>
-            <div class="border border-secondary jumbotron col" style="background-color:black; opacity:0.8;">
+            <div class="jumbotron translucid bottom_shadowed_box_black col" >
                 <h5 style="text-align : center;color : #0A71B4; opacity:1;">
                     Les avantages
                 </h5>

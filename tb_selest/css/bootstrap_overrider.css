@@ -65,11 +65,15 @@ h5.blue_h5{
 
 
 .bottom_shadowed_box{
-    box-shadow: 10px 10px 10px darkgrey;
+    box-shadow: 10px 10px 20px darkgrey;
+}
+
+.bottom_shadowed_box_black{
+    box-shadow: 10px 10px 20px black;
 }
 
 .top_shadowed_box{
-    box-shadow: -10px -10px 10px darkgrey;
+    box-shadow: -10px -10px 20px darkgrey;
 }
 .center{
     /* TEXT CENTER */
@@ -78,4 +82,8 @@ h5.blue_h5{
     display: block;
     margin-left: auto;
     margin-right: auto
+}
+
+.translucid{
+    background-color : rgba(0, 0, 0, 0.7);
 }
