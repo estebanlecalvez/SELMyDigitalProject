@@ -46,6 +46,31 @@ h5.blue_h5{
         width:          1px;
 }
 
+
+.shadowed_small{
+    color : white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.shadowed_small_blue{
+    text-shadow: 2px 1px 2px blue;
+
+}
+
+.shadowed_small_white{
+    text-shadow: 2px 1px 2px white;
+
+}
+
+
+
+.bottom_shadowed_box{
+    box-shadow: 10px 10px 10px darkgrey;
+}
+
+.top_shadowed_box{
+    box-shadow: -10px -10px 10px darkgrey;
+}
 .center{
     /* TEXT CENTER */
     text-align:center;
