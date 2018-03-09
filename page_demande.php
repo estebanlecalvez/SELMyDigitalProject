@@ -36,7 +36,7 @@
 
             <div class="border border-secondary jumbotron col">
                 <h3 class="display-5">User Infos</h3>
-                <img src="themes/tb_selest/img/profil.png" id="profil_picture">
+                <img src="tb_selest/img/profil.png" id="profil_picture">
 
                 <hr class="my-4">
                 <p class="lead">
