@@ -77,6 +77,49 @@
 
         </div>
     </div>
+
+
+
+    <div class="card bottom_shadowed_box" style="width: 18rem;">
+        <img class="card-img-top" src="img/femme1.png" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">User Name</h5>
+            <p class="card-text">Description</p>
+            <p class="card-body">Age : 29</p>
+            <a href="#" class="btn btn-primary">Voir le profil</a>
+        </div>
+    </div>
+    <div class="card bottom_shadowed_box" style="width: 18rem;">
+        <img class="card-img-top" src="img/homme1.png" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">User Name</h5>
+            <p class="card-text">Description</p>
+            <p class="card-body">Age : 29</p>
+            <a href="#" class="btn btn-primary">Voir le profil</a>
+        </div>
+    </div>
+    <div class="card bottom_shadowed_box" style="width: 18rem;">
+        <img class="card-img-top" src="img/femme2.png" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">User Name</h5>
+            <p class="card-text">Description</p>
+            <p class="card-body">Age : 29</p>
+            <a href="#" class="btn btn-primary">Voir le profil</a>
+        </div>
+    </div>
+    <div class="card bottom_shadowed_box" style="width: 18rem;">
+        <img class="card-img-top" src="img/homme2.png" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">User Name</h5>
+            <p class="card-text">Description</p>
+            <p class="card-body">Age : 29</p>
+            <a href="#" class="btn btn-primary">Voir le profil</a>
+        </div>
+    </div>
+
+
+
+
     <?php include("footer.html");?>
 </body>
 
