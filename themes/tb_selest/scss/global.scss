@@ -6,12 +6,13 @@
 // Mais on peut également y retrouver des sélecteurs descendants (h1 em), des sélecteurs d’enfants (ul > li) ou même des pseudo-classes (a:hover).
 //
 // Évitez d'utiliser class, id et !important dans cette catégorie.
-////@import 'base/form';
+//@import 'base/form';
 @import 'base/headings';
 //@import 'base/lists';
 //@import 'base/medias';
 @import 'base/typography';
 //@import 'base/tables';
+//
 //== Layout
 //
 // Il s’agit du découpage de l’architecture de votre site en sections principales.
@@ -20,6 +21,7 @@
 @import 'layout/footer';
 @import 'layout/header';
 @import 'layout/main';
+//
 //== Components
 //
 // Un component est une section mineure, un composant autonome de la page.
@@ -32,6 +34,6 @@
 //@import 'components/main-menu';
 //@import 'components/pre-header';
 //@import 'components/tb-megamenu';
-// @import 'components/timeline';
-// @import 'components/top-menu';
+//@import 'components/timeline';
+//@import 'components/top-menu';
 //@import 'components/user-menu';
