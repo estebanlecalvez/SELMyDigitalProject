@@ -79,6 +79,10 @@ hr {
   overflow: visible;
 }
 
+vr{
+
+}
+
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0.5rem;
@@ -426,6 +430,7 @@ hr {
   border: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
+
 
 small,
 .small {
