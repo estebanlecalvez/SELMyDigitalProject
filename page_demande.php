@@ -79,8 +79,8 @@
     </div>
 
 
-
-    <div class="card bottom_shadowed_box" style="width: 18rem;">
+<div class="row">
+    <div class="card bottom_shadowed_box col-sm-3" style="width: 18rem;">
         <img class="card-img-top" src="img/femme1.png" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title">User Name</h5>
@@ -89,7 +89,7 @@
             <a href="#" class="btn btn-primary">Voir le profil</a>
         </div>
     </div>
-    <div class="card bottom_shadowed_box" style="width: 18rem;">
+    <div class="card bottom_shadowed_box col-sm-3" style="width: 18rem;">
         <img class="card-img-top" src="img/homme1.png" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title">User Name</h5>
@@ -98,7 +98,7 @@
             <a href="#" class="btn btn-primary">Voir le profil</a>
         </div>
     </div>
-    <div class="card bottom_shadowed_box" style="width: 18rem;">
+    <div class="card bottom_shadowed_box col-sm-3" style="width: 18rem;">
         <img class="card-img-top" src="img/femme2.png" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title">User Name</h5>
@@ -107,7 +107,7 @@
             <a href="#" class="btn btn-primary">Voir le profil</a>
         </div>
     </div>
-    <div class="card bottom_shadowed_box" style="width: 18rem;">
+    <div class="card bottom_shadowed_box col-sm-3" style="width: 18rem;">
         <img class="card-img-top" src="img/homme2.png" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title">User Name</h5>
@@ -116,7 +116,7 @@
             <a href="#" class="btn btn-primary">Voir le profil</a>
         </div>
     </div>
-
+</div>
 
 
 
