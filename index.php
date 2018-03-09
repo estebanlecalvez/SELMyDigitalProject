@@ -22,13 +22,26 @@
         <div class="row">
             <div class="col"></div>
             <div class="col">
-                <img src="img/test_small_img.png">
+                <a href="#">
+                    <img src="img/FAQ.png" class="center rounded-circle">
+
+                </a>
+                <hr>
+                <p class="center">FAQ</p>
             </div>
             <div class="col">
-                <img src="img/test_small_img.png">
+                <a href="#">
+                    <img src="img/Plus_demande.png" class="center rounded-circle" href="#">
+                </a>
+                <hr>
+                <p class="center">Faire une demande</p>
             </div>
             <div class="col">
-                <img src="img/test_small_img.png">
+                <a href="#">
+                    <img src="img/Plus_offre.png" class="center rounded-circle" href="#">
+                </a>
+                <hr>
+                <p class="center">Faire une offre</p>
             </div>
             <div class="col"></div>
 

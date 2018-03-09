@@ -12,14 +12,6 @@
 
 }
 
-hrver {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    margin-left : 1rem;
-    margin-right : 1rem;
-    border: 0;
-    border-right : 1px solid rgba(0,0,0,0.1);
-  }
 
 .alert{
     margin-left : 0.5%;
@@ -47,9 +39,18 @@ h5.blue_h5{
     color:#0A71B4;
 }
 
-hrvertical{
+.border_left{
         border:         none;
         border-left:    1px solid hsla(200, 10%, 50%,100);
-        height:         50vh;
-        width:          1px;       
+        height:         100%;
+        width:          1px;
+}
+
+.center{
+    /* TEXT CENTER */
+    text-align:center;
+    /*IMAGE CENTER*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto
 }
